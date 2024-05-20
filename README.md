@@ -4,7 +4,7 @@ Este portafolio es desarrollado para poner en práctica las habilidades obtenida
 
 Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando animaciones de bibliotecas externas.
 
-[Proyecto en linea](https://marvelous-tulumba-5063db.netlify.app/)
+[Proyecto en linea](https://super-belekoy-6d5d22.netlify.app/)
 
 - Capturas de pantalla
 
